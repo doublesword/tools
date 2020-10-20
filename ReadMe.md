@@ -1,4 +1,4 @@
-<h1>文件说明</h1>
+<h1 align="center">文件说明</h1>
 <table width="*">
 <tr> 
 <td>NSLookUp</td>
